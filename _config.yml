@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: [Daniel Morgan Test for Sophia Genetics]
+description: [comparison of two different target sequencing approaches (hg19) for paired-end short reads from same DNA DGS to diagnosis solid tumor]
+
+show_downloads: [true]
