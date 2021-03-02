@@ -1,6 +1,9 @@
-# CH outperforms AH on several respects:<h2>
+## Intro:
+I am a visual thinker, and knowing only the basics of pair-end short read sequencing I found a really nice paper and [python package](https://github.com/OpenGene/AfterQC) for paired-end short read analysis and QC.
 
+>Shifu Chen, Tanxiao Huang, Yanqing Zhou, Yue Han, Mingyan Xu and Jia Gu. AfterQC: automatic filtering, trimming, error removing and quality control for fastq data. BMC Bioinformatics 2017 18(Suppl 3):80 https://doi.org/10.1186/s12859-017-1469-3
 
+## CH outperforms AH on several respects:
 
 1.Erratic base content distributions  <br>
 
